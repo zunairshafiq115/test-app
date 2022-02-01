@@ -1,0 +1,12 @@
+.add-todo{
+    border: 1px solid;
+    padding: 50px;
+    width: 90%;
+}
+
+.list-todo{
+    border: 1px solid;
+    padding: 50px;
+    width: 90%;
+    margin-bottom: 10px;
+}
